@@ -49,7 +49,7 @@
     "347.db363d92.chunk.js.map": "/static/js/347.db363d92.chunk.js.map"
   },
   "entrypoints": [
-    "/static/css/main.6ff56e47.css",
-    "/static/js/main.97720635.js"
+    "static/css/main.6ff56e47.css",
+    "static/js/main.97720635.js"
   ]
 }
